@@ -18,7 +18,7 @@ This project implements a MAC array capable of performing parallel multiply-accu
 ## Verification
 
 - Submodule level simulation to verify individual MAC units in isolation
-- Full-array simulation compared against a software reference model
+- Full array simulation compared against a software reference model
 - Tested against various type of inputs (zeros, negatives, overflows) to check for all edge cases.
 
 ## Tools
